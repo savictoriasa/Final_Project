@@ -2,6 +2,7 @@
 Rock Paper Scissors Lizard Spock
 
 Setup & Summary:
+
 Once you run the script a pop up window will appear where you will be able to play the game of Rock, Paper, Scissors, Lizard, Spock.
 You are able to play numerours rounds in the same window against a computer, with the results being instantaneous.
 
