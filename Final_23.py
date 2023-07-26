@@ -25,7 +25,7 @@ comp_choice = {
 } 
 
 
-#restarts game 
+#resets game 
 def reset_game(): 
     b1["state"] = "active" 
     b2["state"] = "active" 
